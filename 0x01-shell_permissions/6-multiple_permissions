@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 765 help
+chmod 750 help
