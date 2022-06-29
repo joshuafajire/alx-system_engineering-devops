@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -2 iacta | uniq -c
+tail -n 1 iacta | uniq -c
